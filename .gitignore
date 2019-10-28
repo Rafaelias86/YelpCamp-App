@@ -1,1 +1,13 @@
 node_modules
+.env
+
+
+{ "_id" : ObjectId("5db46ce42943d357a4105088"), "name" : "Salmon Creek", "image" : "https://www.photosforclass.com/download/pixabay-1846142?webUrl=https%3A%2F%2Fpixabay.com%2Fget%2F57e8d1454b56ae14f6da8c7dda793f7f1636dfe2564c704c722d7bd7904bc55c_960.jpg&user=Pexels", "__v" : 0 }
+{ "_id" : ObjectId("5db46d537b50ba4ecc03560f"), "name" : "Granite Hill", "image" : "https://www.photosforclass.com/download/pixabay-1845719?webUrl=https%3A%2F%2Fpixabay.com%2Fget%2F57e8d1464d53a514f6da8c7dda793f7f1636dfe2564c704c722d7bd7904bc55c_960.jpg&user=Pexels", "__v" : 0 }
+{ "_id" : ObjectId("5db46e069fa4e65ae84eaf52"), "name" : "Mountain Goat's Rest", "image" : "https://www.photosforclass.com/download/pixabay-1851092?webUrl=https%3A%2F%2Fpixabay.com%2Fget%2F57e8d0424a5bae14f6da8c7dda793f7f1636dfe2564c704c722d7bd7904bc55c_960.jpg&user=Pexels", "__v" : 0 }
+{ "_id" : ObjectId("5db47022b3940760dcd57626"), "name" : "Laguna de Mucubaji", "image" : "https://www.sierranevadamerida.com.ve/wp-content/uploads/2017/03/15123017_614150322101777_5622945424692343025_o-1024x768.jpg", "__v" : 0 }
+{ "_id" : ObjectId("5db472c4cd05a058d03d0b8b"), "name" : "Laguna Santo Cristo", "image" : "https://media-cdn.tripadvisor.com/media/photo-s/0a/fd/5b/58/laguna-santo-cristo.jpg", "__v" : 0 }
+{ "_id" : ObjectId("5db47b20f810e523f896d2ff"), "name" : "Laguna Negra", "image" : "https://i.pinimg.com/originals/55/af/48/55af48d3b5a0c51eb527d119cc3e6ce0.jpg", "__v" : 0 }
+{ "_id" : ObjectId("5db47be000fe523970d3d131"), "name" : "Laguna Verde", "image" : "https://tierradegracia.net/wp-content/uploads/2016/04/laguna-verde-merida.jpg", "__v" : 0 }
+{ "_id" : ObjectId("5db47cdac88a062730b6acfd"), "name" : "Laguna El Suero", "image" : "https://s1.wklcdn.com/image_67/2011857/35139636/22937242Master.jpg", "__v" : 0 }
+{ "_id" : ObjectId("5db4969b4921ac49945603e0"), "name" : "Pico Bolivar", "image" : "https://upload.wikimedia.org/wikipedia/commons/9/96/Pico_Bol%C3%ADvar_despejado.jpeg", "__v" : 0 }
