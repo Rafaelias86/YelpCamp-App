@@ -6,3 +6,7 @@
 .card .caption-full{
     padding: 12px;
 }
+
+.delete-form{
+    display: inline;
+}
