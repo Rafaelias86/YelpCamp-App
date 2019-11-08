@@ -51,3 +51,27 @@ router.get("/logout", function(req, res){
 
 
 module.exports = router;
+
+function Car(make, model, year){
+    this.make = make;
+    this.model = model;
+    this.year = year;
+    this.isRunning = false;
+}
+
+Car.prototype.turnOn = function(){
+    this.isRunning = true;
+}
+
+Car.prototype.turnOff = function(){
+    this.isRunning = false;
+}
+
+Car.prototype.honk = function(){
+    if(this.isRunning){
+        return "beep";
+    }
+}
+
+
+
